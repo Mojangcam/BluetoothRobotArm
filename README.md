@@ -1,6 +1,6 @@
 # BluetoothRobotArm
 
-##준비물
+## 준비물
 
 1. Arduino Uno
 2. MG996R * 3
@@ -8,7 +8,7 @@
 4. HM-10 * 1
 5. 5V 어댑터
 
-##전용 앱 사용 방법</br>
+## 전용 앱 사용 방법</br>
 1. https://1drv.ms/f/s!AsorzqYdoyt6gcJn3fgEWeNyFKCG6g?e=1kgQea Robot_Arm_v1.apk 다운로드 (앱 인벤터로 제작) 또는 Robot_Arm_v1.aia다운로드
 2. aia파일 다운로드 시 앱 인벤터에서 불러오신 후 빌드
 3. apk 설치 후 실행
