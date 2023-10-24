@@ -273,10 +273,6 @@ void command(String cmd)
             Sequins2();
             break;
 
-            // case 9:
-            //     Sequins3();
-            //     break;
-
         default:
             break;
         }
