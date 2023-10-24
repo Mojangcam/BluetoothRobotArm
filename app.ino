@@ -101,8 +101,7 @@ bool set_servoAngle(int servoMotorNumber,
 }
 int is = 0;
 
-void Hello()
-{
+void Hello() {
     set_servoAngle(2, 90, 1, 30);
 
     for (int i = 3; i > 0; i--)
